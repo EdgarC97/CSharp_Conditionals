@@ -1,4 +1,4 @@
-# Conditional Excercises
+# Conditional Exercises
 
 1. Escribe un programa que pida al usuario un número y muestre si es par o impar usando una condición if.
 2. Escribe un programa que pida al usuario que ingrese su nombre. Luego, verifica si el nombre ingresado no es nulo ni está vacío. Si el nombre es válido, muestra un mensaje de bienvenida; de lo contrario, muestra un mensaje de error.
